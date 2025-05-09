@@ -8,7 +8,7 @@
 > **Created:** 2025-05-08  
 > **Updated:** 2025-05-09  
 > **License:** [CC BY 4.0 (Attribution International)](https://creativecommons.org/licenses/by/4.0/)  
-> **Contact:** [kittrellbj@gmail.com](mailto:kittrellbj@gmail.com?subject=%5BGithub%5D%20SimpleCert)
+> **Contact:** [kittrellbj@gmail.com](mailto:kittrellbj@gmail.com?subject=%5BGithub%5D%20SimpleCert) (Email is not for product support; file an issue instead.)
 > 
 > ---
 > 
